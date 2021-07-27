@@ -1,6 +1,7 @@
-### Hi there 👋, I'm Mir Rashel
-#### A Web Development Learner
+
 ![A Web Development Learner](https://media-exp1.licdn.com/dms/image/C4D16AQESzZNOleRU2g/profile-displaybackgroundimage-shrink_200_800/0/1625767062553?e=1632960000&v=beta&t=X4fuZvICsTOMxw1kR664mDdRjq5B8FtssVnRr0MKCPo)
+## I'm Mir Rashel
+#### A Web Development Learner
 
 I've completed Diploma In Computer Engineering from Bhola Polytechnic Institute.  Now I'm working at AnZa Corporation Ltd as a Assistant Computer Engineer. My strengths are hard-working, self-motivating and dedicated towards my work. My weakness is I feel uncomfortable until I finish my work in the given time. My hobbies are Travelling, listening to music and playing Cricket & Badminton.
 
