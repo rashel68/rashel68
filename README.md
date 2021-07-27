@@ -17,5 +17,11 @@ I've completed Diploma In Computer Engineering from Bhola Polytechnic Institute.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rashel68&show_icons=true&locale=en" alt="rashel68" /></p>
 
+## Connect With Me
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/md-rashel-341068" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-rashel-341068/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/rashel341068/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/rashel341068" height="30" width="40" /></a>
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rashel68)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-rashel-341068/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/rashel341068)  
+
+
 
