@@ -5,7 +5,7 @@
 I've completed Diploma In Computer Engineering from Bhola Polytechnic Institute.  Now I'm working at AnZa Corporation Ltd as a Assistant Computer Engineer. My strengths are hard-working, self-motivating and dedicated towards my work. My weakness is I feel uncomfortable until I finish my work in the given time. My hobbies are Travelling, listening to music and playing Cricket & Badminton.
 
 ## Experience & Skill
-💡 JavaScript <br>
+💡 <h1>JavaScript</h1> <br>
 ▶ Bootstrap and Tailwind <br>
 ▶ CSS3 <br>
 ▶ HTML5
