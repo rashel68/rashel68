@@ -1,5 +1,4 @@
 
-![A Web Development Learner](https://media-exp1.licdn.com/dms/image/C4D16AQESzZNOleRU2g/profile-displaybackgroundimage-shrink_200_800/0/1625767062553?e=1632960000&v=beta&t=X4fuZvICsTOMxw1kR664mDdRjq5B8FtssVnRr0MKCPo)
  
 <h3 align="center">Mir Rashel <br> A Programming Hero Learner</h3><hr>
 
