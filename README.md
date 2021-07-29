@@ -1,21 +1,4 @@
 
- 
-<h3 align="center">Mir Rashel <br> A Programming Hero Learner</h3><hr>
-
-I've completed Diploma In Computer Engineering from Bhola Polytechnic Institute.  Now I'm working at AnZa Corporation Ltd as a Assistant Computer Engineer. My strengths are hard-working, self-motivating and dedicated towards my work. My weakness is I feel uncomfortable until I finish my work in the given time. My hobbies are Travelling, listening to music and playing Cricket & Badminton.
-
-- 🔭 I’m currently working on AnZa Corporation Ltd 
-- 🌱 I’m currently learning Programming Hero  
-
-## Experience & Skill
-💡 JavaScript <br>
-▶ Bootstrap and Tailwind <br>
-▶ CSS3 <br>
-▶ HTML5
-
-
-
-<br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rashel68&show_icons=true&locale=en" alt="rashel68" /></p>
 
